@@ -1,0 +1,17 @@
+Introduction
+
+Projects:
+1. One project where you made a huge impact(Instance)
+2. In memory caching: @CacheAnnotations
+3. In memory vs Redis Caching
+4. Synchronous vs Asynchronous calls
+5. Thread safe methods
+
+
+DSA Question:
+
+{100,2,1,200,3,4} -> len(1,2,3,4)=> Output 4
+
+Optimistic locking vs pessimistic locking
+
+
